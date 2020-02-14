@@ -7,7 +7,7 @@
 #include "EditorStyleSet.h"
 
 #include "Editor/WorkspaceMenuStructure/Public/WorkspaceMenuStructureModule.h"
-#include "SDockTab.h"
+#include "Widgets/Docking/SDockTab.h"
 
 #define LOCTEXT_NAMESPACE "ObjectBrowser"
 
