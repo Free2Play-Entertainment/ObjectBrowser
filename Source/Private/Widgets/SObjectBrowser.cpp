@@ -8,7 +8,7 @@
 #include "EditorFontGlyphs.h"
 
 #include "ClassViewerModule.h"
-#include "SClassPickerDialog.h"
+#include "Kismet2/SClassPickerDialog.h" 
 
 #define LOCTEXT_NAMESPACE "SObjectBrowser"
 
